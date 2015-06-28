@@ -6,6 +6,7 @@ Description: Effortlessly create WordPress widgets with the Widgets Boss framewo
 Version: 0.9
 Author: khromov
 Author URI: http://snippets.khromov.se
+GitHub Plugin URI: khromov/wp-widget-boss
 License: GPL2
 */
 
